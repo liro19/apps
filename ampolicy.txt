@@ -1,0 +1,59 @@
+Privacy Policy
+Last Updated: 23 July 2026
+This Privacy Policy explains how Airline Mayhem ("the App") handles your information.
+Your privacy is important. The App is designed to collect as little personal information as possible and does not operate any backend servers controlled by the developer.
+
+1. Information We Collect
+The App itself does not require you to create an account or provide personal information.
+Any game progress or settings are stored locally on your device unless you choose to use Apple Game Center.
+
+2. Apple Game Center
+The App supports Apple Game Center for features such as:
+Leaderboards
+Achievements
+Player profiles
+When you use Game Center, Apple may process information including your Game Center nickname, player identifier, achievements, leaderboard scores, and other information necessary to provide Game Center services.
+This information is handled by Apple in accordance with Apple's Privacy Policy.
+The developer does not have direct access to your Game Center account or personal Apple ID information.
+
+3. Advertising (Google AdMob)
+The App displays advertisements using Google AdMob.
+Google and its advertising partners may collect certain information to provide and measure advertisements, which may include:
+Device information
+Approximate location (if permitted by your device settings)
+Advertising identifiers
+App interactions
+Diagnostic information
+Where required by law, the App requests your consent before personalized advertising is shown.
+Depending on your choices and region, you may receive:
+Personalized advertisements
+Non-personalized advertisements
+Google processes this information according to its own Privacy Policy.
+
+4. Analytics
+The App itself does not collect analytics.
+However, Apple Game Center and Google AdMob may collect diagnostic or usage information necessary for their services.
+
+5. Data Storage
+Game progress, settings, and other application data are stored locally on your device unless specifically synchronized through Apple services such as Game Center or iCloud (if enabled by Apple).
+The developer does not store your data on external servers.
+
+6. Third-Party Services
+The App uses the following third-party services:
+Apple Game Center
+Google AdMob
+These services have their own privacy practices and policies.
+
+7. Children's Privacy
+The App is not directed specifically toward children under the age required by applicable law.
+If the App is used by children, advertising and consent handling will operate in accordance with applicable platform requirements and local regulations.
+
+8. Your Choices
+You may:
+Control advertising permissions through your device settings where available.
+Reset or limit your advertising identifier using your device settings.
+Disable Game Center through your Apple device settings if you do not wish to use Game Center features.
+
+9. Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time.
+Any updates will be published onthe App's website, and the "Last Updated" date will be revised.
